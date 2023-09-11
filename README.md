@@ -1,2 +1,6 @@
-# java-concurrency-study
-자바 동시성에 관련한 학습을 한다.
+# java-study
+자바를 학습한다.
+
+### Branch
+1. concurrency
+- 자바 동시성을 학습
